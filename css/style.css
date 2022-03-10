@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Sacramento&display=swap');
+div{
+    padding: 30px;
+    background-color: ivory;
+}
+table{
+    text-align: right;
+}
+h1{
+            color:indianred;
+            font-family: Sacramento;
+            font-size: 80px;
+            text-align: center;
+            line-height: 0px;
+}
+h2{
+            color:lightcoral;
+            font-family: Fredoka;
+            font-size: 23px;
+            text-align: center;
+}
+h3{
+            color:indianred;
+            font-family: Fredoka;
+            font-size: 22px;
+}
+h4{
+            color:lightcoral;
+            font-family: Fredoka;
+            font-size: 20px;
+            line-height: 0px;
+}
+p{
+            color:dimgray;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 16px;
+}
+ul{
+            color:indianred; 
+            font-family: Fredoka;
+            font-size: 18px;
+}
